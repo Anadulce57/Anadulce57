@@ -18,7 +18,6 @@ My goal is to develop my professional skills, challenge myself, and expand my kn
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />
-
 </div>
 
 ## How to reach me
@@ -26,4 +25,5 @@ My goal is to develop my professional skills, challenge myself, and expand my kn
       <a href="https://www.linkedin.com/in/ana-dulce-martins-71ab70304/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-
+## Just a scene ❤
+  ![gifLordings](https://github.com/user-attachments/assets/b4479c38-3fb8-4fbd-9a83-d80dac42cd34)

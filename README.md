@@ -22,8 +22,8 @@ My goal is to develop my professional skills, challenge myself, and expand my kn
 </div>
 
 ## How to reach me
-<div style= "align-center">
-    <a href= "www.linkedin.com/in/ana-dulce-martins-71ab70304" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<div>
+      <a href="https://www.linkedin.com/in/ana-dulce-martins-71ab70304/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 

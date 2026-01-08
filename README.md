@@ -1,6 +1,7 @@
 ## Hello there, my name is Ana! ✨
 My goal is to develop my professional skills, challenge myself, and expand my knowledge in IT while collaborating with others to support my growth. Currently, I'm focusing on pursuing a degree in Computer Engineering. 
 
+* I'm from Brazil 🌎
 * High School, integrated into IT 👩🏾‍🎓
 * Coursing Computer Engineering (first semester) 💻
 * In love with geek sagas ⚔
